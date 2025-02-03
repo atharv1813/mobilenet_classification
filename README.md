@@ -1,5 +1,3 @@
-Based on the provided GitHub repository, here's an updated README tailored to your project:
-
 # MobileNet Image Classification
 
 This project is a web application that allows users to upload images and receive classifications based on the MobileNetV2 model. The application is built with a Flask backend and a React frontend styled with Tailwind CSS.
